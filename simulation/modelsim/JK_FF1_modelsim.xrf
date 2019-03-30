@@ -1,0 +1,11 @@
+vendor_name = ModelSim
+source_file = 1, C:/Users/Hi/Desktop/linh.dm/FPGA/JK_FF/JK_FF1.v
+source_file = 1, C:/Users/Hi/Desktop/linh.dm/FPGA/JK_FF/tb_JK_FF1.v
+source_file = 1, C:/Users/Hi/Desktop/linh.dm/FPGA/JK_FF/db/JK_FF1.cbx.xml
+design_name = JK_FF1
+instance = comp, \clk~I , clk, JK_FF1, 1
+instance = comp, \j~I , j, JK_FF1, 1
+instance = comp, \k~I , k, JK_FF1, 1
+instance = comp, \q~0 , q~0, JK_FF1, 1
+instance = comp, \q~reg0 , q~reg0, JK_FF1, 1
+instance = comp, \q~I , q, JK_FF1, 1
